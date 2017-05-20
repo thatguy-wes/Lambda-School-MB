@@ -1,0 +1,25 @@
+.background {
+  width: 100%;
+  height: 650px;
+  background: yellow;
+}
+
+.top {
+  width: 100%;
+  height: 100px;
+  background: red;
+}
+
+.center {
+  width: 70%;
+  height: 500px;
+  background: blue;
+  margin: 0 auto;
+}
+
+.bottom {
+  width: 70%;
+  height: 50px;
+  background: green;
+  margin: auto;
+}
